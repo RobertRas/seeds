@@ -1,0 +1,29 @@
+Aqui estão 4 exemplos de livros, um para cada uma das categorias solicitadas, prontos para você cadastrar no seu sistema:
+
+**Categoria: Romance**
+
+* **Título:** Orgulho e Preconceito
+* **Ano Publicação:** 1813
+* **Autor:** Jane Austen
+* **Resumo:** A história acompanha Elizabeth Bennet, uma jovem inteligente e obstinada, enquanto ela lida com as pressões sociais de casamento e moralidade na Inglaterra do século XIX. Seu relacionamento cheio de atritos e eventual romance com o rico e orgulhoso Sr. Darcy mostra como os julgamentos precipitados e o orgulho podem ser enganosos.
+
+**Categoria: Terror**
+
+* **Título:** O Iluminado
+* **Ano Publicação:** 1977
+* **Autor:** Stephen King
+* **Resumo:** Jack Torrance aceita um emprego como zelador de inverno do isolado Hotel Overlook e leva consigo sua esposa e seu filho Danny, que possui habilidades telepatas. Durante o rigoroso inverno, que os deixa isolados pela neve, forças malignas do hotel começam a corromper a mente de Jack, transformando a estadia em uma luta desesperada pela sobrevivência.
+
+**Categoria: Fantasia**
+
+* **Título:** O Senhor dos Anéis: A Sociedade do Anel
+* **Ano Publicação:** 1954
+* **Autor:** J.R.R. Tolkien
+* **Resumo:** Na Terra-média, o pacato hobbit Frodo Bolseiro herda o Um Anel, um artefato de poder maligno absoluto. Para evitar que o anel retorne ao seu criador, o Senhor do Escuro Sauron, Frodo embarca em uma jornada épica e perigosa acompanhado por uma comitiva formada por humanos, elfos, anões e outros hobbits para destruí-lo.
+
+**Categoria: Ficção**
+
+* **Título:** Duna
+* **Ano Publicação:** 1965
+* **Autor:** Frank Herbert
+* **Resumo:** Em um futuro distante da humanidade, o jovem Paul Atreides e sua nobre família recebem a administração do inóspito planeta deserto Arrakis. O planeta é a única fonte da "especiaria", a substância mais valiosa do universo. A trama envolve complexas intrigas políticas, religião, ecologia e rebeliões em uma luta épica pelo controle do deserto.
